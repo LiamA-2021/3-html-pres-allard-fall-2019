@@ -1,0 +1,87 @@
+.mySlides{display: none;}
+
+body {
+    margin: 0 auto;
+}
+
+body, html, section {
+    width: 100%;
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    font-family: 'Yeon Sung', cursive;
+    font-size:7vw;
+}
+
+.fs-img-1 {
+    /* image used */ background-image: url("/img/astronomy-astrophotography-constellation-365633.jpg");
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fs-img-2 {
+    /* image used */ background-image: url("/img/4k-wallpaper-calm-waters-dark-1252869.jpg");
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fs-img-3 {
+    /* image used */ background-image: url("/img/artificial-intelligence-astronomy-machine-learning-73910.jpg");
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fs-img-4 {
+    /* image used */ background-image: url("/img/apollo-astronaut-landing-41162.jpg");
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fs-img-5 {
+    /* image used */ background-image: url("/img/animal-aquatic-aquatic-animal-2156311.jpg");
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fs-img-6 {
+    /* image used */ background-image: url("/img/animal-animal-photography-claws-88512.jpg");
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fs-img-7 {
+    /* image used */ background-image: url("/img/astrology-astronomy-crater-909752.jpg");
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fs-img-8 {
+    /* image used */ background-image: url("/img/astronomy-black-wallpaper-constellation-2150.jpg");
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#video-1 {
+    background-position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+figure {
+    position: fixed;
+    bottom: 0px;
+}
