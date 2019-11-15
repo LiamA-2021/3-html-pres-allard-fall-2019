@@ -86,6 +86,11 @@ figure {
     bottom: 0px;
 }
 
+
 .w3-container1 {
     height: 50%
+}
+
+.text-shadow{
+    text-shadow: 2px 2px #000000
 }
